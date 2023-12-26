@@ -1480,5 +1480,19 @@ a{padding-left: 14px;
 		background: rgba(87,204,195,0.75);
 		color: white;
 	}
+	.sid{
+		margin-right: 10px;
+	}
+	.ss{
+		
+			/* transform: rotate(90deg); */
+			width: 100% !important; 
+
+			text-align: center !important;
+			color: white !important;
+			transform: rotate(360deg) !important; 
+
+			/* color: rgba(87,204,195,0.75); */
+		}
 	
 	

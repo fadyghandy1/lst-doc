@@ -1250,7 +1250,7 @@ section
 	transform: rotateY(0deg);
   }
   
-  .lnk {
+  /* .lnk {
 	transform: translateZ(40px);
 	cursor: pointer;
 	-webkit-backface-visibility: hidden;
@@ -1264,7 +1264,7 @@ section
 	position: relative;
 	transform-style: preserve-3d;
 	transition: 300ms ease;
-  }
+  } */
   .lnk{
 
 color: white;

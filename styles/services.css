@@ -1250,7 +1250,7 @@ section
 	transform: rotateY(0deg);
   }
   
-  .ccc {
+  .lnk {
 	transform: translateZ(40px);
 	cursor: pointer;
 	-webkit-backface-visibility: hidden;
@@ -1265,6 +1265,13 @@ section
 	transform-style: preserve-3d;
 	transition: 300ms ease;
   }
+  .lnk{
+
+color: white;
+background-color: #57ccc3;
+
+  }
+  
 
   .button:hover {
 	transform: translateZ(55px);

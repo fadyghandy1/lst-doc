@@ -1267,8 +1267,12 @@ section
   } */
   .lnk{
 
-color: white;
-background-color: #57ccc3;
+    color: white;
+    background-color: #57ccc3;
+    padding: 5px 15px;
+    border-radius: 20px ;
+
+    margin-top: 10px;
 
   }
   

@@ -1495,4 +1495,12 @@ a{padding-left: 14px;
 			/* color: rgba(87,204,195,0.75); */
 		}
 	
-	
+	.clickb{
+	background-color: rgba(87,204,195,0.75);
+    border: dashed;
+    border-radius: 22%;
+	color: white !important;
+}
+.sora{
+	margin-top: 90px;
+}

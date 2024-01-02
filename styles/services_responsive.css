@@ -255,9 +255,10 @@
 		top: 154px;
 	}
 	.home_text
-	{text-align: center;
-		font-size: 11px;
-		width: 359px;
+	{
+		font-size: 12px;
+		width: 308px;
+		text-align-last: center;
 	}
 	.logo a > div:first-child
 	{

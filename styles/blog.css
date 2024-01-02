@@ -1048,3 +1048,7 @@ font-size: 30px;
     display: contents;
 
 }
+.bblog{
+	position: absolute;
+    left: 25%;
+}
